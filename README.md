@@ -9,7 +9,7 @@
 
 - u can ask me about **nodejs, vb.net and c#.net, unity, cpp, whatever**
 
-- fun fact **ur mom**
+- fun fact: **ur mom may have an interest in me 😎😎😎😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
