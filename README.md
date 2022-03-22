@@ -1,6 +1,7 @@
 <h1 align="center">hi im andreweathan</h1>
 <h3 align="center">the guy that appears in the nightmares of all keyboards</h3>
 
+<p align="left"> i go by another online name nowadays which i probably won't give for several reasons</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrew-eathan&label=Profile%20views&color=0e75b6&style=flat" alt="andrew-eathan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrew-eathan" alt="andrew-eathan" /></a> </p>
