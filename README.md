@@ -35,7 +35,9 @@ welcome to my lair where i legally loiter my repos :trollface:<br>
  - a lot of other things i dont really rember lol 💀
 
 ### 🛠️ things im making
- - a couple games (trust me it's not just the average 2d/3d shovelware)
+ - a couple of games (trust me it's not just the average 2d/3d shovelware)
+ - still working on my gmod server
+ - a lot of other things i dont really want to rember lol 💀
 
 ### 🏆 Github Statistics 🏆
 </p>
