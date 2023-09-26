@@ -29,7 +29,8 @@ welcome to my lair where i legally loiter my repos :trollface:<br>
 
 ### 🗿 things i made
  - [my own site](https://mariluu.hehe.moe/) from scratch, including a self made r/place replica, a public typewriter, and other little things
- - [pngsmasher](https://github.com/andrew-eathan/pngsmasher), my own realistic image glitching tool written in .NET 6
+ - [pngsmasher](https://github.com/andrew-eathan/pngsmasher), my own realistic image glitching tool written in c# .NET 6
+ - [autosaver](https://github.com/andrew-eathan/autosaver), a tool i wrote in c# .NET 6 that reminds you to save your work (or it can press CTRL+S for you :)
  - [discord server backup tool](https://github.com/andrew-eathan/discord-server-backup-tool), a full interactive command-line backup tool that saves discord servers entirely (settings, channels, categories, messages, members, bans, icons, and lots more)
  - [worst server ever](https://discord.gg/Vzpt8yUW6c), my community + a gmod server that's actually made for gmod players to have fun on, with lots of custom exclusive self-made features (an advanced custom chat relay, clientside improvements, relay-focused commands like !screenshot and !record, and so much more)
  - a lot of other things i dont really rember lol 💀
