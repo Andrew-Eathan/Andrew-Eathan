@@ -3,29 +3,19 @@
 welcome to my lair where i legally loiter my repos :trollface:<br>
 
 ### 🤓🤓🤓🤓 things i can do
-- #### c++
-- #### c#
-- #### unity
-- #### nodejs
-- #### web javascript
-- #### html
-- #### css
-- #### lua
-- #### expression 2
-- #### expressjs
-- #### ejs
-- #### a little react and nextjs
-- #### discord.js
+- <b>Languages:</b> C++, C#, NodeJS, browser JS, HTML, CSS, Lua, Expression2, also a little Rust
+- <b>Tools/Libraries:</b> Unity, ExpressJS, ejs, a little React and NextJS, discord.js
 
-- #### can make good music depending on RNG
-- #### not bad at writing stories
-- #### good at designs
+other:
+- can make good music depending on RNG
+- not bad at writing stories
+- good at designs
 
-### 🔧 i write code in these bloated tools (not u vim :) )
-- #### vim 😎😎😎😎😎😎😎😎😎
-- #### notepad++ 😎😎😎
-- #### visual studio
-- #### vscode
+### 🔧 i write code in these bloated tools (not u vim :) vim is cool)
+- Vim 😎😎😎😎😎😎😎😎😎
+- Notepad++ 😎😎😎
+- Visual Studio
+- VSCode
 
 ### 🗿 things i made
  - [my own site](https://mariluu.hehe.moe/) from scratch, including a self made r/place replica, a public typewriter, and other little things
@@ -52,5 +42,5 @@ welcome to my lair where i legally loiter my repos :trollface:<br>
 <img src="https://github-profile-trophy.vercel.app/?username=Andrew-Eathan&theme=gitdimmed&no-bg=true&no-frame=true&">
 </p>
 
-also imo nothing on god's green earth is scarier than github markdown<br>
-truly one of the programming languages of all time
+also imo nothing on god's green earth is scarier than github markdown and unity hlsl/glsl/cg shaders<br>
+markdown truly is one of the programming languages of all time
