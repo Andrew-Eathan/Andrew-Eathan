@@ -22,7 +22,7 @@ other:
  - [pngsmasher](https://github.com/andrew-eathan/pngsmasher), my own realistic image glitching tool written in c# .NET 6
  - [autosaver](https://github.com/andrew-eathan/autosaver), a tool i wrote in c# .NET 6 that reminds you to save your work (or it can press CTRL+S for you :)
  - [discord server backup tool](https://github.com/andrew-eathan/discord-server-backup-tool), a full interactive command-line backup tool that saves discord servers entirely (settings, channels, categories, messages, members, bans, icons, and lots more)
- - [worst server ever](https://discord.gg/Vzpt8yUW6c), my community + a gmod server that's actually made for gmod players to have fun on, with lots of custom exclusive self-made features (an advanced custom chat relay, clientside improvements, relay-focused commands like !screenshot and !record, and so much more)
+ - [worst server ever](https://discord.gg/Vzpt8yUW6c), my own community, + a gmod server that's actually made for gmod players to have fun on (not just to grow exponentially), with lots of custom exclusive self-made features (an advanced custom chat relay, clientside improvements, relay-focused in-game commands like !screenshot and !record to share your experiences, and so much more)
  - a lot of other things i dont really rember lol 💀
 
 ### 🛠️ things im making
